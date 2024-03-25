@@ -23,9 +23,9 @@ Image Search Engine is a dynamic web frontend project aimed at providing feature
    ```
 
 2. Navigate to the project directory:
-  ```
-   cd Image-Search-Engine
-  ```
+   ```
+    cd Image-Search-Engine
+   ```
 
 3. Install dependencies:
    ```
