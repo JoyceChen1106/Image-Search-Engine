@@ -18,23 +18,19 @@ Image Search Engine is a dynamic web frontend project aimed at providing feature
 ## Usage Guide
 
 1. Clone the repository to your local environment:
-
-git clone https://github.com/your-username/Image-Search-Engine.git
-
+   ```
+    git clone https://github.com/your-username/Image-Search-Engine.git
+   ```
 
 2. Navigate to the project directory:
-
-cd Image-Search-Engine
-
+```cd Image-Search-Engine
+```
 
 3. Install dependencies:
+   ```npm install```
 
-npm install
-
-
-4. Start the development server:
-
-npm start
+5. Start the development server:
+   ```npm start```
 
 5. Open [http://localhost:3000](http://localhost:3000) in your browser to view the application.
 
